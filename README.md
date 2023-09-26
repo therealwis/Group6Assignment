@@ -2,5 +2,5 @@
 Script-Programming Group 6
 
 Two Routes:
-/ -> Home Page
-/reports -> Charts implementation
+# / -> Home Page
+# /reports -> Charts implementation
