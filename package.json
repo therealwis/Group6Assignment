@@ -1,0 +1,26 @@
+{
+  "name": "group6",
+  "version": "1.0.0",
+  "description": "BIT3 Script Programming Group Assignment Task 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Group6",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^4.4.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealwis/Group6Assignment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/therealwis/Group6Assignment/issues"
+  },
+  "homepage": "https://github.com/therealwis/Group6Assignment#readme"
+}
